@@ -6,4 +6,4 @@ file { 'Create_file':
     group   => 'www-data',
     mode    => '0744',
     content => 'I love Puppet',
-   }
+}
